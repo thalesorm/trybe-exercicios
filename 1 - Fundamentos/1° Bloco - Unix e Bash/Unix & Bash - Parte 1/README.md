@@ -1,4 +1,4 @@
-# Exercicios do Bloco 1
+# Exercícios do Bloco 1
 
 ## Parte I - Criação de arquivos e diretórios
 
