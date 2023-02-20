@@ -1,3 +1,7 @@
-for (let index = 0; index <= 9; index += 1) {
-  console.log("Oie");
-}
+let num = 4;
+  for (let iindex = num - 1; index >= 1; i--) {
+    num *= index;
+  }
+  console.log(num);
+
+
