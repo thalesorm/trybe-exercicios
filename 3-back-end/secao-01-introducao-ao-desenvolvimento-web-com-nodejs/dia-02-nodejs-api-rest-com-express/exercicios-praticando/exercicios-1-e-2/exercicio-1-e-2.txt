@@ -1,0 +1,11 @@
+Exercício 1
+Qual é a função do código de status 400 e 422?
+A função do código status 400 serve para indicar que o servidor não pode atender a requisição do cliente,
+e pode acontecer no caso do cliente enviar dados inválidos ou incompletos.
+
+A função do código status 422 indica que a solicitação do cliente não pode ser atendida, pois
+é provável que o cliente enviou dados inválidos que não podem ser processados pelo servidor.
+
+Exercício 2
+Qual é a função do código de status 401?
+O código de status 401 indica que o cliente não tem autorização necessária para acessar o recurso solicitado.
