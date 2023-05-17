@@ -16,4 +16,8 @@
     
 -   Volte à permissão do arquivo  `arquivo_teste.txt`  para a listada inicialmente utilizando o comando  `chmod 644 arquivo_teste.txt`.
     
+<<<<<<< HEAD
     > Resultado esperado:  `-rw-r--r-- 1 ana ana 1860 ago 13 11:39 arquivo_teste.txt`
+=======
+    > Resultado esperado:  `-rw-r--r-- 1 ana ana 1860 ago 13 11:39 arquivo_teste.txt`
+>>>>>>> 71609dd1c846c3ef9684d314127fa1227a9f9f65

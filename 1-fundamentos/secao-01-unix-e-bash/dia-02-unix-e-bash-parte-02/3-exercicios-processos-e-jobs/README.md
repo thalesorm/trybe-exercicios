@@ -22,4 +22,8 @@
 
 -   Retome a execução do processo  `sleep 100`  em background com o comando  `bg`.
     
+<<<<<<< HEAD
 -   Termine a execução de todos os processos  `sleep`  (mate os processos).
+=======
+-   Termine a execução de todos os processos  `sleep`  (mate os processos).
+>>>>>>> 71609dd1c846c3ef9684d314127fa1227a9f9f65
