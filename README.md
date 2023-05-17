@@ -22,7 +22,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 3: Introdução - HTML & CSS
 
 - [x] 3-1: _HTML & CSS - Estruturas de página_
-- [X] 3-2: _HTML & CSS - Primeiros passos em CSS_
+exercicios/fundamentos-dia-02-javascript-array-e-loop-for
+- [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
+
 - [x] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [x] 3-4: _HTML Semântico_
 - [x] 3-5: _[Projeto - HTML & CSS](https://github.com/thalesorm/Licoes-Aprendidas-HTML)_
