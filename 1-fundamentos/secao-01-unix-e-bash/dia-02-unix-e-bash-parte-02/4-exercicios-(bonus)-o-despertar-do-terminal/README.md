@@ -29,5 +29,3 @@ Se você utiliza  **macOS**, precisa ter o gerenciador de pacotes  `brew`  insta
     
 -   Execute o comando  `telnet towel.blinkenlights.nl`  e espere alguns segundos. Lembre-se de que você tem mais exercícios para fazer! 😅
     
-
-Gostou das curiosidades? Nos  _Recursos Adicionais_  tem mais alguns comandos divertidos. Confere lá!
