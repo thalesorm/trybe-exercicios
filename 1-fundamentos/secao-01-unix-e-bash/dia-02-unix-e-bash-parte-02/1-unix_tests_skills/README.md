@@ -20,4 +20,8 @@
     
 -   Crie um novo arquivo chamado  `bunch_of_things.txt`  com os conteúdos dos arquivos  `phrases2.txt`  e  `countries.txt`
     
+<<<<<<< HEAD
 -   Ordene o arquivo  `bunch_of_things.txt`.
+=======
+-   Ordene o arquivo  `bunch_of_things.txt`.
+>>>>>>> 71609dd1c846c3ef9684d314127fa1227a9f9f65
