@@ -20,4 +20,8 @@ curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efc
 - Liste todos os arquivos do diretório unix_tests_search.
 - Liste todos os arquivos que terminem com txt.
 - Liste todos os arquivos que terminem com tbt ou txt.
+<<<<<<< HEAD
 - Acesse o manual do comando ls.
+=======
+- Acesse o manual do comando ls.
+>>>>>>> 71609dd1c846c3ef9684d314127fa1227a9f9f65

@@ -29,4 +29,8 @@ Para os próximos dois exercícios, crie, de forma manual, na parte gráfica do 
 
 - Mostre na tela as 5 primeiras skills do arquivo skills.txt.
 - Mostre na tela as 4 últimas skills do arquivo skills.txt.
+<<<<<<< HEAD
 - Apague todos os arquivos que terminem em .txt.
+=======
+- Apague todos os arquivos que terminem em .txt.
+>>>>>>> 71609dd1c846c3ef9684d314127fa1227a9f9f65
